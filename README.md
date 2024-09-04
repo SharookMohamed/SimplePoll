@@ -19,7 +19,6 @@ SimplePoll is a straightforward, HTML-based polling application that allows user
 
 ### Poll Results mobile
 ![Poll Results](images/poll-results.png)
-
 ## How to Use
 
 1. Clone the repository:
