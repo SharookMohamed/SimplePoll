@@ -16,7 +16,7 @@ SimplePoll is a straightforward, HTML-based polling application that allows user
 
 
 ### Poll Results
-![Poll Results](https://github.com/SharookMohamed/SimplePoll/blob/master/Screenshot%20(79).png)
+![Poll Results](https://github.com/SharookMohamed/SimplePoll/blob/master/Screenshot%20(80).png)
 
 ### Poll Results mobile
 ![Poll Results](images/poll-results.png)
