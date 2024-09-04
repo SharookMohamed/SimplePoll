@@ -33,8 +33,6 @@
 .poll-main__grid .poll {
   border: solid 1px #e4e4e4;
   padding: 20px 30px ;
-
-
   background-image: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%);
 }
 
@@ -104,7 +102,6 @@
 .poll-main__grid .answer.selected .name,
 .poll-main__grid .answers .answer.selected span.percentage_value {
   -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
-  color: #fff;
 }
 
 .poll-main__grid .answers .answer span.percentage_value {
