@@ -12,7 +12,7 @@ SimplePoll is a straightforward, HTML-based polling application that allows user
 ## Screenshots
 
 ### Poll Interface
-![Poll Interface](images/poll-interface.png)
+![Poll Interface](Screenshot (78).png)
 
 ### Poll Results
 ![Poll Results](images/poll-results.png)
